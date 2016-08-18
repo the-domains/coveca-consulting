@@ -18,4 +18,7 @@ navigation:
   - name: Resources
     url: 'http://mindtools.com'
     type: external
+  - name: About Us
+    url: 'https://ch.linkedin.com/in/marcdimancescu'
+    type: external
 title: Strategic Marketing & Implementation
