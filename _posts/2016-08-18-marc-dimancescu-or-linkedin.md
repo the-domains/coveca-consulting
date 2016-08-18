@@ -20,16 +20,14 @@ keywords:
 description: Dieses LinkedIn Profil auf anderen Webseiten verwenden
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://ch.linkedin.com/in/marcdimancescu'
 title: Marc Dimancescu | LinkedIn
-datePublished: '2016-08-18T09:27:41.032Z'
-dateModified: '2016-08-18T09:27:29.017Z'
+datePublished: '2016-08-18T09:28:14.938Z'
+dateModified: '2016-08-18T09:28:14.357Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-marc-dimancescu-or-linkedin.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: marc-dimancescu-or-linkedin/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
