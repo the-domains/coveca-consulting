@@ -15,9 +15,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6933a5fd-6614-4cf5-8ff7-07b9168b3042.jpg
 name: Coveca Consulting
 navigation:
-  - name: Resources
-    url: 'http://mindtools.com'
-    type: external
   - name: About Us
     url: 'https://ch.linkedin.com/in/marcdimancescu'
     type: external
