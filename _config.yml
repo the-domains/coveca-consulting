@@ -21,4 +21,7 @@ navigation:
   - name: About Us
     url: 'https://ch.linkedin.com/in/marcdimancescu'
     type: external
+  - name: About Us
+    url: 'https://ch.linkedin.com/in/alina-maria-weide-08436947/en'
+    type: external
 title: Strategic Marketing & Implementation
