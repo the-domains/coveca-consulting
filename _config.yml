@@ -1,4 +1,3 @@
-layout_spectrum: 0.3739884023088962
 typography_spectrum: 0.929215403739363
 color:
   brandStrength: 0.8399108205921948
@@ -11,4 +10,6 @@ color:
     - '#B3BFCC'
     - '#869DB4'
     - '#476A8A'
+layout_spectrum: 0.3739884023088962
 name: Coveca Consulting
+title: Strategic Marketing & Implementation
