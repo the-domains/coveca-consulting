@@ -18,4 +18,7 @@ navigation:
   - name: About Us
     id: 79326bef-a7bd-484c-9717-90b71f536d2e
     type: content
+  - name: Resources
+    id: 9c5f792b-2233-4c80-8a41-4e823f617f99
+    type: content
 title: Strategic Marketing & Implementation
