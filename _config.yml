@@ -16,9 +16,6 @@ logo: >-
 name: Coveca Consulting
 navigation:
   - name: About Us
-    url: 'https://ch.linkedin.com/in/marcdimancescu'
-    type: external
-  - name: About Us
     id: 79326bef-a7bd-484c-9717-90b71f536d2e
     type: content
 title: Strategic Marketing & Implementation
