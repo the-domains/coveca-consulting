@@ -24,8 +24,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: 'Mind Tools: Online Management, Leadership and Career Training'
-datePublished: '2016-08-18T09:26:27.541Z'
-dateModified: '2016-08-18T09:26:26.736Z'
+datePublished: '2016-08-18T09:26:51.457Z'
+dateModified: '2016-08-18T09:26:50.936Z'
 via: {}
 sourcePath: >-
   _posts/2016-08-18-mind-tools-online-management-leadership-and-career-trainin.md
