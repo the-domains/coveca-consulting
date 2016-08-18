@@ -23,17 +23,15 @@ description: >-
   You can learn many skills for free.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://www.mindtools.com/'
 title: 'Mind Tools: Online Management, Leadership and Career Training'
-datePublished: '2016-08-18T09:25:33.804Z'
-dateModified: '2016-08-18T09:25:18.086Z'
+datePublished: '2016-08-18T09:26:27.541Z'
+dateModified: '2016-08-18T09:26:26.736Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-18-mind-tools-online-management-leadership-and-career-trainin.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: mind-tools-online-management-leadership-and-career-trainin/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
