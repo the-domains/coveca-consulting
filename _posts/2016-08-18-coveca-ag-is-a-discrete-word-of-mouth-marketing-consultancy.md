@@ -2,8 +2,8 @@
 description: >-
   Coveca AG is a discrete, word of mouth marketing consultancy specializing in
   strategy and implementation for large B2B & B2C corporations.
-dateModified: '2016-08-18T09:02:15.488Z'
-datePublished: '2016-08-18T09:02:16.021Z'
+dateModified: '2016-08-18T09:22:15.029Z'
+datePublished: '2016-08-18T09:22:15.593Z'
 title: ''
 author: []
 publisher: {}
