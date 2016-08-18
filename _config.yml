@@ -1,4 +1,4 @@
-typography_spectrum: 0.929215403739363
+typography_spectrum: 0.37660289532504976
 color:
   brandStrength: 0.8399108205921948
   lightness: 0.7389174005948007
@@ -10,7 +10,7 @@ color:
     - '#B3BFCC'
     - '#869DB4'
     - '#476A8A'
-layout_spectrum: 0.3739884023088962
+layout_spectrum: 0.797815247438848
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6933a5fd-6614-4cf5-8ff7-07b9168b3042.jpg
 name: Coveca Consulting
